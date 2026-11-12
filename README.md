@@ -1,8 +1,28 @@
-# JARVIS
+# JARVIS — Autonomous AI Agent System (HuggingGPT)
 
+<div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.17580)
-[![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/microsoft/HuggingGPT)
+  [![Live Web Demo](https://img.shields.io/badge/Live_Web_Demo-JARVIS_Online-FFD700?style=for-the-badge&logo=vercel&logoColor=black)](https://jarvis-web-gold.vercel.app)
+  [![Web UI Repo](https://img.shields.io/badge/Web_UI_Repo-jarvis--web-42B883?style=for-the-badge&logo=vue.js&logoColor=white)](https://github.com/temp-pie1207/jarvis-web)
+  [![arXiv](https://img.shields.io/badge/arXiv-2303.17580-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2303.17580)
+  [![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/microsoft/HuggingGPT)
+  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+  <p align="center">
+    <strong>An autonomous AI agent system connecting Large Language Models (LLMs) with 100+ multimodal models across HuggingFace Hub to solve complex, multi-stage language, vision, speech, and generative tasks.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://jarvis-web-gold.vercel.app"><strong>⚡ Open Live Web Console (Vercel) ↗</strong></a> •
+    <a href="https://github.com/temp-pie1207/jarvis-web">Web Client Repository</a> •
+    <a href="https://github.com/temp-pie1207/Portfolio_Naman">Author Portfolio</a>
+  </p>
+
+</div>
+
+---
+
+> 🚀 **LIVE DEPLOYMENT**: Experience JARVIS in your browser at **[https://jarvis-web-gold.vercel.app](https://jarvis-web-gold.vercel.app)** — featuring real-time task decomposition, multimodal prompt input, model routing, and audio synthesis.
 
 The mission of JARVIS is to explore artificial general intelligence (AGI) and deliver cutting-edge research to the whole community.
 
@@ -255,3 +275,14 @@ If you find this work useful in your method, you can cite the paper as below:
       journal = {arXiv preprint arXiv:2401.06201},
       year    = {2024}
     }
+
+---
+
+## ✦ Maintainer & Deployment Contact
+
+- **Maintained & Deployed by**: [Naman Kashyap](https://github.com/temp-pie1207)
+- **Live Cloud Web Client**: [https://jarvis-web-gold.vercel.app](https://jarvis-web-gold.vercel.app)
+- **Web Client Repository**: [temp-pie1207/jarvis-web](https://github.com/temp-pie1207/jarvis-web)
+- **Portfolios**: [Echo Verse](https://naman-portfolio-theta.vercel.app) • [Davies Editorial](https://davies-ten.vercel.app)
+- **Email**: [namankashyap484@gmail.com](mailto:namankashyap484@gmail.com)
+- **LeetCode**: [Naman_1207](https://leetcode.com/u/Naman_1207/)
